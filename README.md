@@ -8,8 +8,9 @@ Note that coordinates in the output files are inexact, particularly for crimes a
 
 ## Rights and Use
 
-The dataset and associated documentation are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) CC BY-NC-SA ![CC BY-NC-SA](/images/cc_license.png). You are free to share and to adapt the work as long as you cite the source, do not use it for commercial purposes, and release adaptations under the same license.
+The dataset and associated documentation are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) CC BY-NC-SA. You are free to share and to adapt the work as long as you cite the source, do not use it for commercial purposes, and release adaptations under the same license.
 
 *Disclaimer: Every effort was made to insure that the data, which was compiled from public sources, was processed and presented accurately. The creators and Brown University disclaim any liability for errors, inaccuracies, or omissions that may be contained therein or for any damages that may arise from the foregoing. Users should independently verify the accuracy and fitness of the data for their purposes.*
 
 ## Results
+![Results visualized using QGIS](/results.png)
