@@ -14,3 +14,4 @@ The dataset and associated documentation are licensed under a [Creative Commons 
 
 ## Results
 ![Results visualized using QGIS](/results.png)
+(will be replaced with a higher resolution image)
