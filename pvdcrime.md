@@ -44,15 +44,14 @@ dct_temporal_sm:
 - '2023 - 2024'
 
 # DATE ISSUED
-dct_issued_s: '2023-12'
+dct_issued_s: '2024-1'
 
 # SPATIAL
 dct_spatial_sm:
 - Providence, Rhode Island, United States
 
 # BOUNDING BOX
-TODO: REPLACE WITH FINAL BOX
-dcat_bbox: 'ENVELOPE(-71.9073,-71.0886,42.0189,41.0958)'
+dcat_bbox: 'ENVELOPE(335598.2502031698822975,251068.7811870127916336,361733.9689290039241314,283675.7812615931034088)'
 
 # RIGHTS
 dct_rights_sm: 
@@ -74,13 +73,12 @@ dct_format_s:
 # UNIQUE ID
 id: brown-12112023AAI
 
-
 # IDENTIFIER
 dct_identifier_sm:
 - https://github.com/Brown-University-Library/geodata_pvdcrime/data
 
 # METADATA MODIFIED
-gbl_mdModified_dt: '2023-12-8'
+gbl_mdModified_dt: '2023-1-8'
 
 # METADATA VERSION
 gbl_mdVersion_s: Aardvark
