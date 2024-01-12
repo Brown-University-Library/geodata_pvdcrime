@@ -13,7 +13,7 @@ The dataset and associated documentation are licensed under a [Creative Commons 
 *Disclaimer: Every effort was made to insure that the data, which was compiled from public sources, was processed and presented accurately. The creators and Brown University disclaim any liability for errors, inaccuracies, or omissions that may be contained therein or for any damages that may arise from the foregoing. Users should independently verify the accuracy and fitness of the data for their purposes.*
 
 ## Download Instructions
-To run the Jupyter notebook, first dowload RIGIS's [E-911 dataset](https://www.rigis.org/datasets/e-911-sites/explore) and move the FACILITY_SITES_E911.dbf file into the `code>inputs` directory. This file is too large to upload to GitHub.
+To run the Jupyter notebook, first dowload RIGIS's [E-911 dataset](https://www.rigis.org/datasets/e-911-sites/explore) and move the `FACILITY_SITES_E911.dbf` file into the `code>inputs` directory. This file is too large to upload to GitHub.
 
 ## Results
 ![Results visualized using QGIS](/results.png)
