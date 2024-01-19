@@ -18,8 +18,8 @@ To run the Jupyter notebook, first dowload RIGIS's [E-911 dataset](https://www.r
 ## Download Instructions
 Navigate to the `outputs` directory. Open the `all` folder to find data across all years beginning 2023, or click on a specific year to download more limited results. Files can be downloaded individually or all together as a zip file for completed years.
 
-Complete years:
-[2023 data](/outputs/2023/pvdcrime_2023.zip)
+Completed years:
+  * [2023](/outputs/2023/pvdcrime_2023.zip)
 
 
 
