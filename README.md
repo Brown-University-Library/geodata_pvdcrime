@@ -16,7 +16,11 @@ The dataset and associated documentation are licensed under a [Creative Commons 
 To run the Jupyter notebook, first dowload RIGIS's [E-911 dataset](https://www.rigis.org/datasets/e-911-sites/explore) and move the `FACILITY_SITES_E911.dbf` file into the `code>inputs` directory. This file is too large to upload to GitHub.
 
 ## Download Instructions
-Navigate to the `outputs` directory. Open the `all` folder to find data across all years beginning 2023, or click on a specific year to download more limited results.
+Navigate to the `outputs` directory. Open the `all` folder to find data across all years beginning 2023, or click on a specific year to download more limited results. Files can be downloaded individually or all together as a zip file for completed years.
+
+![2023 data](/outputs/2023/pvdcrime_2023.zip)
+
+
 
 ## Results
 ![Results visualized using QGIS](/results.png)
