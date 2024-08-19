@@ -20,7 +20,8 @@ Data files are stored in the `outputs` directory. Open the `all` folder to find 
 
 Completed years:
 
-- [2023](/outputs/2023/pvdcrime_2023.zip) (partial, includes June to Dec only)
+- 2024(/outputs/2024/pvdcrime_2024.zip)(partial, includes Jan to mid-Aug only)
+- 2023](/outputs/2023/pvdcrime_2023.zip) (partial, includes June to Dec only)
 
 ## Running the Script
 
