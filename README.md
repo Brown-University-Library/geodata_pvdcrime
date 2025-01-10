@@ -4,7 +4,7 @@
 
 The Providence Geocoded Crime Incidents is a geodataset created by the Brown University Library [GeoData@SciLi](https://libguides.brown.edu/geodata/) team for the mapping of crimes by location and type over time. It is derived from the [Providence Police Case Log](https://data.providenceri.gov/Public-Safety/Providence-Police-Case-Log-Past-180-days/rz3y-pz8v/about_data), updated nightly with the past 180 days of crime incidents in Providence, Rhode Island. The purpose of this project is to create annual data archives of geocoded crime incidents. **The locations of incidents in this project are general approximations, and do not represent the precise locations where crimes occurred**. 
 
-Incidents were plotted to: the mid-point of a range of addresses in a block, the intersection of two streets, or the center of a large landmark. Coordinates were derived from three sources: RIGIS's E911 point layer, the RIDOT geocoder, and Open Street Map. The coordinate source is determined by the format of the location attribute in the original dataset: block number, intersection, or landmark. Locations which do not fall into these categories, such as standalone street names, were not geocoded due to their imprecise nature. Successfully geocoded results are stored as a point layer (`pvd_geocoded_[year].shp`) in the Rhode Island State Plane (ft-US) coordinate system, EPSG 3438. Results are also available in Excel format (`pvd_geocoded_[year].xlsx`), with 'latitude' and 'longitude' columns in WGS 84 (EPSG 4326). Cases which could not be accurately geocoded are stored in `pvd_non_geocoded_[year].xlsx`. Output files are available separately by year. In addition to these output files, this repository includes metadata in the OSM Aardvark standard, documentation, and the Python script for generating the results.
+Incidents were plotted to: the mid-point of a range of addresses in a block, the intersection of two streets, or the center of a large landmark. Coordinates were derived from three sources: RIGIS's E911 point layer, the RIDOT geocoder, and Open Street Map. The coordinate source is determined by the format of the location attribute in the original dataset: block number, intersection, or landmark. Locations which do not fall into these categories, such as standalone street names, were not geocoded due to their imprecise nature. Successfully geocoded results are stored as a point layer (`pvd_geocoded_[year].shp`) in the Rhode Island State Plane (ft-US) coordinate system, EPSG 3438. Geocoded results are also available in CSV format (`pvd_geocoded_[year].csv`), with 'latitude' and 'longitude' columns in WGS 84 (EPSG 4326). Cases which could not be accurately geocoded are stored in `pvd_non_geocoded_[year].csv`. Output files are available separately by year. In addition to these output files, this repository includes metadata in the OSM Aardvark standard, documentation, and the Python script for generating the results.
 
 Project lead: Felicity Hade, DSI Undergraduate Fellow, Brown University '24
 
@@ -20,7 +20,7 @@ Data files are stored in the `outputs` directory. Open the `all` folder to find 
 
 Completed years:
 
-- [2024](/outputs/2024/pvdcrime_2024.zip) (partial, includes Jan to mid-Aug only)
+- [2024](/outputs/2024/pvdcrime_2024.zip) (Jan to Dec)
 - [2023](/outputs/2023/pvdcrime_2023.zip) (partial, includes June to Dec only)
 
 ## Running the Script
