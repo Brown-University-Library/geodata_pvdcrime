@@ -20,9 +20,9 @@ Data files are stored in the `outputs` directory. Open the `all` folder to find 
 
 Completed years:
 
-- [2025](https://github.com/Brown-University-Library/geodata_pvdcrosswalk/raw/main/outputs/2025/pvdcrime_2025.zip) (Jan to Dec)
-- [2024](https://github.com/Brown-University-Library/geodata_pvdcrosswalk/raw/main/outputs/2024/pvdcrime_2024.zip) (Jan to Dec)
-- [2023](https://github.com/Brown-University-Library/geodata_pvdcrosswalk/raw/main/outputs/2023/pvdcrime_2023.zip) (partial, June to Dec only)
+- [2025](https://github.com/Brown-University-Library/geodata_pvdcrime/raw/main/outputs/2025/pvdcrime_2025.zip) (Jan to Dec)
+- [2024](https://github.com/Brown-University-Library/geodata_pvdcrime/raw/main/outputs/2024/pvdcrime_2024.zip) (Jan to Dec)
+- [2023](https://github.com/Brown-University-Library/geodata_pvdcrime/raw/main/outputs/2023/pvdcrime_2023.zip) (partial, June to Dec only)
 
 [Documentation (PDF)](https://github.com/Brown-University-Library/geodata_pvdcrime/blob/main/pvdcrime_documentation.pdf)
 
